@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CollectionsAndMaps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_calculate">calculate</string>
+    <string name="input_size_please">Input, size, please</string>
+    <string name="_100">100</string>
+    <string name="nameTable">name</string>
+    <string name="insert_at_the_beginning">insert beginning</string>
+    <string name="insert_at_the_end">insert end</string>
+    <string name="insert_at_the_middle">insert middle</string>
+    <string name="find_element">find element</string>
+    <string name="delete_at_the_beginning">delete beginning</string>
+    <string name="delete_at_the_middle">delete middle</string>
+    <string name="delete_at_the_end">delete end</string>
+    <string name="linkedlist">LinkedList</string>
+    <string name="arraylist">ArrayList</string>
+    <string name="write_on_Copy">WriteOnCopy</string>
+    <string name="name_map">name_map</string>
+    <string name="adding_new">Adding new</string>
+    <string name="search_by_key">Search by key</string>
+    <string name="removing">Removing</string>
+</resources>
